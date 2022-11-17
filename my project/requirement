@@ -1,0 +1,12 @@
+gTTS
+opencv-python
+transformers
+playsound
+gdown
+torch
+numpy
+tqdm
+Pillow
+scikit-image
+gradio
+git+https://github.com/openai/CLIP.git
